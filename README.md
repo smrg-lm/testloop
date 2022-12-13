@@ -13,8 +13,8 @@ Single ugen general feedback loop
 
 Clone the project:
 
-    git clone https://smrg-lm/feedbackugen
-    cd feedbackugen
+    git clone https://github.com/smrg-lm/testloop.git
+    cd testloop
     mkdir build
     cd build
 
